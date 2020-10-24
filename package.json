@@ -1,8 +1,8 @@
 {
-  "name": "decentragram",
+  "name": "d_photo",
   "version": "0.1.0",
-  "description": "Decentralized Social Media",
-  "author": "Dapp University",
+  "description": "Decentralized Photo Social Media",
+  "author": "github.com/xternet",
   "homepage": ".",
   "dependencies": {
     "@truffle/hdwallet-provider": "^1.1.0",
